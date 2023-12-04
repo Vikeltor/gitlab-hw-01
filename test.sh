@@ -7,5 +7,5 @@ echo "This is commit 2"
 echo "This is commit 3"
 #commit 4
 echo "This is commit 4"
-#commit 5
-echo "This is commit 5"
+#making conflict
+echo "Ooops we make some conflict"
